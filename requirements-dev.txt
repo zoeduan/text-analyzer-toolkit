@@ -1,0 +1,7 @@
+pytest>=6.0
+black>=22.0
+flake8>=4.0
+mypy>=0.950
+coverage>=6.0
+twine>=4.0
+build>=0.8.0
